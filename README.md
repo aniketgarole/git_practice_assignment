@@ -1,1 +1,1 @@
-# git_practice_assignment
+I have created this repository to practice git
